@@ -4,6 +4,7 @@
 CRT_Snake is a visual experiment built with **Pygame**, blending the simplicity of classic Snake with the weirdness of old-school **CRT monitors**, manually rendered **3D objects**, and glowing **phosphor-style beam effects** — no shaders, no engines, just pixel math and vibes.
 
 > "I didn’t plan this. I just wanted to see if I could make a beam glow in Pygame. Suddenly it had scanlines, ghost trails, and spinning cubes."
+> "Built with the help of ChatGPT and Claude — AI pair programmers who don’t sleep, don’t eat, and somehow still get excited about vector math."
 
 ---
 
